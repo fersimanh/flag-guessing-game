@@ -1,0 +1,75 @@
+body {
+ background-image: url("https://papers.co/wallpaper/papers.co-sa65-wallpaper-bumpy-world-blur-29-wallpaper.jpg");
+ background-color: #cccccc;
+ background-size: 1500px 900px;
+
+  }
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: fantasy;
+    text-decoration: underline;
+    font-size: 75px;
+    
+  }
+  h2 {
+    color:rgb(0, 0, 0);
+    text-align: center;
+    align-items: center;
+  }
+  h3 {
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    font-size: 4rem;
+    position: absolute;
+    bottom: 100px;
+  }
+  h4 {
+  color: rgb(0, 0, 0);
+  font-family: fantasy;
+  font-size: 4rem;
+  position: absolute;
+  bottom: 77px;
+}
+
+h5 {
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+  font-family: fantasy;
+  font-size: 20px;
+  position: absolute;
+  bottom: 215px;
+  right: 33%
+}
+
+h6 {
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+  font-family: fantasy;
+  font-size: 20px;
+  position: absolute;
+  bottom: 200px;
+  left: 34%
+}
+button {
+  display: inline-block;
+background-color: #ffffff;
+border-radius: 10px;
+border: 4px double #ffffff;
+color: #000000;
+font-family: fantasy;
+}
+  
+
+  #score {
+    left: 35%;
+  }
+
+  #counter {
+    right: 35%
+  }
+
+
+  
+  
+ 
